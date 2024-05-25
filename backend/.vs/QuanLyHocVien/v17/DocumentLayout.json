@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\QuanLyHocVien\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\taikhoanphanquyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\taikhoanphanquyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\taikhoanlichhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\taikhoanlichhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\taikhoanhocviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\taikhoanhocviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\phanquyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\phanquyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\lichhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\lichhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\khoahocmonhoccontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\khoahocmonhoccontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\khoahoclichhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\khoahoclichhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\taikhoanservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\taikhoanservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\khoahocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\khoahocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\entities\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\entities\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\entities\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\entities\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\itaikhoanservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\itaikhoanservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\ikhoahocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\ikhoahocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\entities\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\entities\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\entities\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\entities\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\phanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\phanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\taikhoanhocvienservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\taikhoanhocvienservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\taikhoanlichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\taikhoanlichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\taikhoanphanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\taikhoanphanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\monhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\monhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\lichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\lichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\khoahocmonhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\khoahocmonhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\servicer\\khoahoclichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\servicer\\khoahoclichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\ikhoahoclichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\ikhoahoclichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\ikhoahocmonhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\ikhoahocmonhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\ilichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\ilichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\imonhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\imonhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\iphanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\iphanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\itaikhoanhocvienservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\itaikhoanhocvienservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\itaikhoanlichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\itaikhoanlichhocservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|d:\\workspace\\quanlyhocvien\\backend\\quanlyhocvien\\iservicer\\itaikhoanphanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB72687-197A-45D7-88C1-9F696ACF3174}|QuanLyHocVien\\QuanLyHocVien.csproj|solutionrelative:quanlyhocvien\\iservicer\\itaikhoanphanquyenservicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonHocController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\MonHocController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\MonHocController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\MonHocController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\MonHocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:50:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhanQuyenController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\PhanQuyenController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\PhanQuyenController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\PhanQuyenController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\PhanQuyenController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:49:53.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:01:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanHocVienController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanHocVienController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\TaiKhoanHocVienController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanHocVienController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\TaiKhoanHocVienController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:44:48.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiKhoanLichHocController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanLichHocController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\TaiKhoanLichHocController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanLichHocController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\TaiKhoanLichHocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:43:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoanPhanQuyenController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanPhanQuyenController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\TaiKhoanPhanQuyenController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\TaiKhoanPhanQuyenController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\TaiKhoanPhanQuyenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:38:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:49:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LichHocController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\LichHocController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\LichHocController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\LichHocController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\LichHocController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:51:48.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhoaHocMonHocController .cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\KhoaHocMonHocController .cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\KhoaHocMonHocController .cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\KhoaHocMonHocController .cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\KhoaHocMonHocController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:53:48.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhoaHocLichHocController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\KhoaHocLichHocController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\KhoaHocLichHocController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\KhoaHocLichHocController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\KhoaHocLichHocController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:54:58.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhoaHocController.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\KhoaHocController.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Controllers\\KhoaHocController.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Controllers\\KhoaHocController.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Controllers\\KhoaHocController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:52:47.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\PageResult.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Entities\\PageResult.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\PageResult.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Entities\\PageResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:22:43.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhoaHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\KhoaHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\KhoaHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\KhoaHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\KhoaHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:31:58.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Entities\\TaiKhoan.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\TaiKhoan.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Entities\\TaiKhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:41:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITaiKhoanServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\ITaiKhoanServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\ITaiKhoanServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:09:01.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuanLyHocVien\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T08:45:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Program.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Program.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:33:19.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaiKhoanServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\TaiKhoanServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\TaiKhoanServicer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:56:31.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Entities\\KhoaHoc.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\KhoaHoc.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Entities\\KhoaHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:01:52.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\Pagination.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Entities\\Pagination.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Entities\\Pagination.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Entities\\Pagination.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:22:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IKhoaHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IKhoaHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\IKhoaHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IKhoaHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\IKhoaHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:04:47.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\WeatherForecast.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\WeatherForecast.cs",
+              "RelativeToolTip": "QuanLyHocVien\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:35:19.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\appsettings.json",
+              "RelativeToolTip": "QuanLyHocVien\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T07:12:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaiKhoanHocVienServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanHocVienServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\TaiKhoanHocVienServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanHocVienServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\TaiKhoanHocVienServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:21:00.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PhanQuyenServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\PhanQuyenServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\PhanQuyenServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\PhanQuyenServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\PhanQuyenServicer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:27:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaiKhoanPhanQuyenServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanPhanQuyenServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\TaiKhoanPhanQuyenServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanPhanQuyenServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\TaiKhoanPhanQuyenServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:12:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaiKhoanLichHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanLichHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\TaiKhoanLichHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\TaiKhoanLichHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\TaiKhoanLichHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:17:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MonHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\MonHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\MonHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\MonHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\MonHocServicer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:29:09.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LichHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\LichHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\LichHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\LichHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\LichHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:30:40.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KhoaHocMonHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\KhoaHocMonHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\KhoaHocMonHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\KhoaHocMonHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\KhoaHocMonHocServicer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCcAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:33:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhoaHocLichHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\KhoaHocLichHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\Servicer\\KhoaHocLichHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\Servicer\\KhoaHocLichHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\Servicer\\KhoaHocLichHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:35:07.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IKhoaHocLichHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IKhoaHocLichHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\IKhoaHocLichHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IKhoaHocLichHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\IKhoaHocLichHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:03:32.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IMonHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IMonHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\IMonHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IMonHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\IMonHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:06:01.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IKhoaHocMonHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IKhoaHocMonHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\IKhoaHocMonHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IKhoaHocMonHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\IKhoaHocMonHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:04:15.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILichHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ILichHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\ILichHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ILichHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\ILichHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:05:07.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IPhanQuyenServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IPhanQuyenServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\IPhanQuyenServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\IPhanQuyenServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\IPhanQuyenServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:00:54.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITaiKhoanHocVienServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanHocVienServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\ITaiKhoanHocVienServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanHocVienServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\ITaiKhoanHocVienServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:06:50.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ITaiKhoanLichHocServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanLichHocServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\ITaiKhoanLichHocServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanLichHocServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\ITaiKhoanLichHocServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:07:20.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ITaiKhoanPhanQuyenServicer.cs",
+              "DocumentMoniker": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanPhanQuyenServicer.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien\\IServicer\\ITaiKhoanPhanQuyenServicer.cs",
+              "ToolTip": "D:\\Workspace\\QuanLyHocVien\\backend\\QuanLyHocVien\\IServicer\\ITaiKhoanPhanQuyenServicer.cs",
+              "RelativeToolTip": "QuanLyHocVien\\IServicer\\ITaiKhoanPhanQuyenServicer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:01:27.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

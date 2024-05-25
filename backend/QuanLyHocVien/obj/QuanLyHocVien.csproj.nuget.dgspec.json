@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\net\\QuanLyHocVien\\QuanLyHocVien\\QuanLyHocVien.csproj": {}
+    "D:\\Workspace\\New folder (2)\\QuanLyHocVien\\backend\\QuanLyHocVien\\QuanLyHocVien.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\net\\QuanLyHocVien\\QuanLyHocVien\\QuanLyHocVien.csproj": {
+    "D:\\Workspace\\New folder (2)\\QuanLyHocVien\\backend\\QuanLyHocVien\\QuanLyHocVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\net\\QuanLyHocVien\\QuanLyHocVien\\QuanLyHocVien.csproj",
+        "projectUniqueName": "D:\\Workspace\\New folder (2)\\QuanLyHocVien\\backend\\QuanLyHocVien\\QuanLyHocVien.csproj",
         "projectName": "QuanLyHocVien",
-        "projectPath": "D:\\Workspace\\net\\QuanLyHocVien\\QuanLyHocVien\\QuanLyHocVien.csproj",
+        "projectPath": "D:\\Workspace\\New folder (2)\\QuanLyHocVien\\backend\\QuanLyHocVien\\QuanLyHocVien.csproj",
         "packagesPath": "C:\\Users\\linhb\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\net\\QuanLyHocVien\\QuanLyHocVien\\obj\\",
+        "outputPath": "D:\\Workspace\\New folder (2)\\QuanLyHocVien\\backend\\QuanLyHocVien\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\linhb\\AppData\\Roaming\\NuGet\\NuGet.Config",

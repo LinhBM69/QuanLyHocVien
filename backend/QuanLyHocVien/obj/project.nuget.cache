@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jXtkjW0fImdurRkJQ1s7MjpwWXk55fU50TJKyzEoDZwOJWwlFiey1AJotVOTvzY7mAnZmlQmbqRwJVEBBqZwQQ==",
+  "dgSpecHash": "3Es8ldWRziR+Bqy9P4CvBFQmzwQQCYxXbmOzA4gX35M1c2Dj7up+zFmQcjFXjzyZ08u4kn3j8hyEYTofHHrcJA==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\net\\QuanLyHocVien\\QuanLyHocVien\\QuanLyHocVien.csproj",
+  "projectFilePath": "D:\\Workspace\\New folder (2)\\QuanLyHocVien\\backend\\QuanLyHocVien\\QuanLyHocVien.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linhb\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\linhb\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

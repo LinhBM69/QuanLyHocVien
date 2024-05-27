@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-navigation-drawer v-if="checkKhoaHoc">
+    <v-navigation-drawer v-if="isToken">
       <v-list>
         <v-list-item v-for="(item, index) in khoaHoc" :key="index" :title="item.title" @click="onMenuClick(index)" />
       </v-list>
@@ -25,17 +25,18 @@ const khoaHoc = ref([
   { value: 2, title: 'Tài khoản phân quyền', router: 'taiKhoanPhanQuyen' },
   { value: 3, title: 'Khóa học', router: 'khoahoc' }
 ])
-const checkKhoaHoc = ref(false)
+const isToken = ref(false)
 const interval = ref()
 
-const isKhoaHoc = () => {
+const getToken = () => {
 
-  if (localStorage.getItem('token')) return checkKhoaHoc.value = true
-  return checkKhoaHoc.value = false
+  if (localStorage.getItem('token')) return isToken.value = true
+  return isToken.value = false
 }
 
 onBeforeMount(() => {
-  interval.value = setInterval(isKhoaHoc, 1000)
+  console.log('default');
+  interval.value = setInterval(getToken, 1000)
 })
 
 const onMenuClick = (index) => {

@@ -11,9 +11,13 @@ import { onBeforeMount } from 'vue';
 import { useRouter } from 'vue-router';
 
 const router = useRouter()
+console.log('app');
+
 onBeforeMount(() => {
-  if (!localStorage.getItem("token")) {
-    router.push('/dangnhap')
-  }
+  setTimeout(() => {
+    if (!localStorage.getItem("token")) {
+      router.push('/dangnhap')
+    }
+  }, 1000);
 })
 </script>

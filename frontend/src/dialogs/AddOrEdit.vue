@@ -26,14 +26,13 @@
 </template>
 
 <script setup>
-import { ref, watch } from 'vue';
+import { ref } from 'vue';
 import { Form } from '@/enum'
 
 const hide = ref(false)
 const props = defineProps(['btnTitle', 'title', 'form'])
 const emits = defineEmits(['value', 'addOrEdit'])
 const data = ref([])
-const item = ref({})
 
 const save = () => {
   emits('addOrEdit', data.value)
@@ -41,26 +40,18 @@ const save = () => {
 }
 
 
-const show = (e) => {
-  console.log(e, 'e');
-  item.value = e
+const show = (item) => {
+  data.value = props.form
+  data.value.forEach(e => {
+    for (var f in item) {
+      if (e.value === f) {
+        e[e.value] = item[f]
+      }
+    }
+  })
   hide.value = true
 }
 
-watch(hide, (value) => {
-  if (value) {
-    data.value = props.form
-
-    data.value.forEach(e => {
-      for (var f in item.value) {
-        if (e.value === f) {
-          e[e.value] = item.value[f]
-        }
-      }
-    })
-    console.log(item.value, 99);
-  }
-})
 defineExpose({ show })
 
 </script>

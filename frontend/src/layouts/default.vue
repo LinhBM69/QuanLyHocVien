@@ -2,7 +2,7 @@
   <v-app>
     <v-navigation-drawer v-if="checkKhoaHoc">
       <v-list>
-        <v-list-item v-for="(item, index) in khoaHoc" :key="index" :title="item.title" @click="onKhoaHocClick(index)" />
+        <v-list-item v-for="(item, index) in khoaHoc" :key="index" :title="item.title" @click="onMenuClick(index)" />
       </v-list>
     </v-navigation-drawer>
     <v-main>
@@ -20,10 +20,10 @@ import { useRouter } from 'vue-router';
 //
 const router = useRouter()
 const khoaHoc = ref([
-  { value: 0, title: 'Danh sách khóa học', router: 'danhSachKhoaHoc' },
-  { value: 1, title: 'Thêm khóa học', router: 'themKhoaHoc' },
-  { value: 2, title: 'Sửa khóa học', router: 'suaKhoaHoc' },
-  { value: 3, title: 'Xóa khóa học', router: 'xoaKhoaHoc' }
+  { value: 0, title: 'Tài khoản', router: 'taikhoan' },
+  { value: 1, title: 'Phân quyền', router: 'phanquyen' },
+  { value: 2, title: 'Tài khoản phân quyền', router: 'taiKhoanPhanQuyen' },
+  { value: 3, title: 'Khóa học', router: 'khoahoc' }
 ])
 const checkKhoaHoc = ref(false)
 const interval = ref()
@@ -38,9 +38,9 @@ onBeforeMount(() => {
   interval.value = setInterval(isKhoaHoc, 1000)
 })
 
-const onKhoaHocClick = (index) => {
+const onMenuClick = (index) => {
   const temp = khoaHoc.value.filter(e => e.value === index)
-  router.push(`/khoahoc/${temp[0].router}`)
+  router.push(`/${temp[0].router}`)
 }
 
 

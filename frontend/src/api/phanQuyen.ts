@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const api = 'https://localhost:7097/api/taikhoan'
+const api = 'https://localhost:7097/api/phanquyen'
 
 const getAll = async (params: any) => {
   const res = await axios({

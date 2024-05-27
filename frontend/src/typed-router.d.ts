@@ -20,9 +20,9 @@ declare module 'vue-router/auto-routes' {
   export interface RouteNamedMap {
     '/': RouteRecordInfo<'/', '/', Record<never, never>, Record<never, never>>,
     '/dangNhap': RouteRecordInfo<'/dangNhap', '/dangNhap', Record<never, never>, Record<never, never>>,
-    '/khoaHoc/danhSachKhoaHoc': RouteRecordInfo<'/khoaHoc/danhSachKhoaHoc', '/khoaHoc/danhSachKhoaHoc', Record<never, never>, Record<never, never>>,
-    '/khoaHoc/suaKhoaHoc': RouteRecordInfo<'/khoaHoc/suaKhoaHoc', '/khoaHoc/suaKhoaHoc', Record<never, never>, Record<never, never>>,
-    '/khoaHoc/themKhoaHoc': RouteRecordInfo<'/khoaHoc/themKhoaHoc', '/khoaHoc/themKhoaHoc', Record<never, never>, Record<never, never>>,
-    '/khoaHoc/xoaKhoaHoc': RouteRecordInfo<'/khoaHoc/xoaKhoaHoc', '/khoaHoc/xoaKhoaHoc', Record<never, never>, Record<never, never>>,
+    '/hocVien': RouteRecordInfo<'/hocVien', '/hocVien', Record<never, never>, Record<never, never>>,
+    '/khoaHoc': RouteRecordInfo<'/khoaHoc', '/khoaHoc', Record<never, never>, Record<never, never>>,
+    '/phanQuyen': RouteRecordInfo<'/phanQuyen', '/phanQuyen', Record<never, never>, Record<never, never>>,
+    '/taiKhoan': RouteRecordInfo<'/taiKhoan', '/taiKhoan', Record<never, never>, Record<never, never>>,
   }
 }

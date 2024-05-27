@@ -22,5 +22,15 @@ const post = async (data: any) => {
   return res
 }
 
-const khoaHoc = {post, getAll}
+const put = async (data: any) => {
+  const res = await axios({
+    method: 'put',
+    url: `${api}`,
+    data: data
+  })
+
+  return res
+}
+
+const khoaHoc = { getAll, post, put }
 export default khoaHoc

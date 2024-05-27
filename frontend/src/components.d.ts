@@ -8,14 +8,12 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     AppFooter: typeof import('./components/AppFooter.vue')['default']
-    copy: typeof import('./components/SuaKhoaHoc copy.vue')['default']
     DangNhap: typeof import('./components/DangNhap.vue')['default']
     DanhSachKhoaHoc: typeof import('./components/DanhSachKhoaHoc.vue')['default']
-    HelloWorld: typeof import('./components/HelloWorld.vue')['default']
-    KhoaHoc: typeof import('./components/KhoaHoc.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SuaKhoaHoc: typeof import('./components/SuaKhoaHoc.vue')['default']
+    Table: typeof import('./components/Table.vue')['default']
     ThemKhoaHoc: typeof import('./components/ThemKhoaHoc.vue')['default']
     XoaKhoaHoc: typeof import('./components/XoaKhoaHoc.vue')['default']
   }
